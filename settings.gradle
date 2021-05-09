@@ -1,2 +1,2 @@
-rootProject.name='msgshareapp'
+rootProject.name='demo-kotlin'
 include ':app'
